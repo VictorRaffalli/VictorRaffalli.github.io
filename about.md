@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a creative and technical writer from Venezuela, currently based in Barcelona, Spain. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My biggest passions are writing and technology. My ultimate goal is to keep improving my writing skills and cultivate my technology knowledge so I can be a usefool tool in collaborative projects. I am far from being a software engineer, but as long as I can use my skillset to contribute to projects related to software development, artificial intelligence, and  science, I will be fulfilled. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[victorraffalliclaro@gmail.com](mailto:victorraffalliclaro@gmail.com)
