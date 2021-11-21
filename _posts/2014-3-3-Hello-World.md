@@ -4,7 +4,7 @@ title: 'Victor''s Portfolio '
 published: true
 ---
 
-## Writing Sample 
+## Writing Sample - 1
 
 ### About this text 
 This is a text I wrote for a client who wanted an article centered around a famous quote of my choice. The only guidelines given to me were: use exactly 500 words, quote someone and incorporate a universal subject into the text. 
@@ -26,8 +26,34 @@ Films are one of the newest forms of art, they have become a window in time thro
 ---
 
 
+## Writing Sample - 2
 
+### About this text 
+This is a B2B script aimed at investors. The goal was to capture their attention in a video no longer than three minutes. My task: interview various people involved in the project to understand the technology behind it and turn those ideas into a brief explainer script. Here is the text without the visual cues. 
 
+###### Do not publish this article or replicate it anywhere else without my consent. 
+
+---
+
+### The Remote Tower Project. 
+
+Do you know why airplanes are the safest means of transportation? 
+
+One of the main reasons is due to air traffic services, but still, there are challenging realities that air traffic services face: there is frequently a mismatch between demand and resources which leads to disadvantageous cost efficiency and lower service level. 
+
+Sometimes there is high demand for air traffic services but the airport is lacking air traffic officers, take weekends and holidays as an example; other times, at small airports, officers are often underutilized due to the low number of flights. This mismatch comes with multiple negative consequences in terms of safety and quality of service. 
+
+But how could these challenges be overcome? could we balance every officer’s workload and make air traffic services more efficient?
+
+That’s exactly what The Remote Tower Project is achieving with a forward thinking tech approach. 
+
+The Remote Tower Project replaces the control tower’s out of the window view with a high definition video panorama and a pan tilt zoom camera, which are smarter tools than today’s binoculars. 
+
+This video stream is relayed and displayed at any location you choose. Preferably at a remote tower center where you connect several airports, which are operated from a pool of air traffic officers, providing their services to airports where it is needed. This way one officer is able to provide their services to multiple airports at the same time. 
+
+The remote tower concept solves a realm of difficulties that need to be dealt with, not only it eases the officer’s workflow since no officer will be underutilized or overwhelmed with tasks, but it also has advantages like helping Air Navigation Service Providers increase their cost-efficiency. 
+
+The Remote Tower Project presents a modern and sophisticated solution to our limited capability of managing resources efficiently, ultimately leading to safer air space travel.  
 
 
 
