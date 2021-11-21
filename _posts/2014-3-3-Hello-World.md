@@ -31,7 +31,7 @@ Films are one of the newest forms of art, they have become a window in time thro
 ### About this text 
 This is a B2B script aimed at investors. The goal was to capture their attention in a video no longer than three minutes. My task: interview various people involved in the project to understand the technology behind it and turn those ideas into a brief explainer script. Here is the text without the visual cues. 
 
-###### Do not publish this article or replicate it anywhere else without my consent. 
+###### Do not publish this script or replicate it anywhere else without my consent. 
 
 ---
 
