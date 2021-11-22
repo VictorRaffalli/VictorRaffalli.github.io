@@ -113,25 +113,45 @@ Here is the full list of capabilities and applications (the text inside brackets
 Capabilities:
 
 1.Conceptual Design
+
 2.Feasibility Studies
+
 3.Product Life-Cycle Planning
+
 4.Reverse Engineering
+
 5.Multi-Disciplinary Optimization
+
 6.Requirement Engineering
+
 7.Knowledge-base Engineering
+
 8.Mission Operations
+
 9.Mission Architecture
+
 10.Strategic Forecasting Studies
+
 11.Strategy Development
-12.Applications:
+
+12.Applications
+
 13.Subsystem Technologies (Propulsion, Communication, Power, et al)
+
 14.Satellites (Cubesats, Satellite Swarm, Distributed Satellite System)
+
 15.Launch Vehicles / Rockets (Earth-to-Space)
+
 16.Reentry Systems (Space-to-Earth)
+
 17.Interplanetary Transport (LEO-to-Moon Orbit, Earth-Mars)
+
 18.Landers (Lunar/Mars Lander, Moon/Mars-Orbit to Surface)
+
 19.Extraterrestrial Mobility Vehicles (Rovers, Drones)
+
 20.Space Architectures (Mars Colony, Moon Village)
+
 
 **Voice Over:** The distinguishing feature of CDF-LU is its flexibility. The lab has a modular configuration as it adapts the capability uniquely to an individual application.
 
@@ -174,8 +194,3 @@ At each level visual, we show the CDF swiss army knife with that capability icon
 The video finishes by showing an animation of this image, with the white SnT logo building up in the middle of the screen, and on the left bottom corner the university logo in a white box.
 
 ---
-
-
-
-
-
