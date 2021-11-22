@@ -134,23 +134,23 @@ Capabilities:
 
 11.Strategy Development
 
-12.Applications
+Applications:
 
-13.Subsystem Technologies (Propulsion, Communication, Power, et al)
+1.Subsystem Technologies (Propulsion, Communication, Power, et al)
 
-14.Satellites (Cubesats, Satellite Swarm, Distributed Satellite System)
+2.Satellites (Cubesats, Satellite Swarm, Distributed Satellite System)
 
-15.Launch Vehicles / Rockets (Earth-to-Space)
+3.Launch Vehicles / Rockets (Earth-to-Space)
 
-16.Reentry Systems (Space-to-Earth)
+4.Reentry Systems (Space-to-Earth)
 
-17.Interplanetary Transport (LEO-to-Moon Orbit, Earth-Mars)
+5.Interplanetary Transport (LEO-to-Moon Orbit, Earth-Mars)
 
-18.Landers (Lunar/Mars Lander, Moon/Mars-Orbit to Surface)
+6.Landers (Lunar/Mars Lander, Moon/Mars-Orbit to Surface)
 
-19.Extraterrestrial Mobility Vehicles (Rovers, Drones)
+7.Extraterrestrial Mobility Vehicles (Rovers, Drones)
 
-20.Space Architectures (Mars Colony, Moon Village)
+8.Space Architectures (Mars Colony, Moon Village)
 
 
 **Voice Over:** The distinguishing feature of CDF-LU is its flexibility. The lab has a modular configuration as it adapts the capability uniquely to an individual application.
